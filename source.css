@@ -1,0 +1,70 @@
+.mylogo {
+    width: 15%;
+    height: 200px;
+    margin-top: 55px;
+}
+
+.title {
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.title1 {
+    border: 3px solid white;
+    border-radius: 2px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: Staatliches;
+    font-size: 70px;
+}
+.title2 {
+    border: 3px solid white;
+    border-radius: 2px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: Staatliches;
+    font-size: 70px;
+}
+.title3 {
+    border: 3px solid white;
+    border-radius: 2px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Staatliches;
+    font-size: 70px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+
+h3 {
+    font-size: 30px;
+    font-family: Londrina Solid;
+}
+
+table {
+    border: 1px solid;
+    
+}
+th {
+    font-family: Londrina Solid;
+    border: 1px solid;
+    font-size: 22px;
+}
+td {
+    border: 1px solid;
+    font-family: Londrina Solid;
+    font-size: 18px;
+}
