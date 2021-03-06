@@ -1,0 +1,82 @@
+DRONE STRIKE
+Description	Armed Predator drone firing Hellfire missile
+Date		20 January 2010
+Source		http://www.ifpafletcherconference.com/2010/powerpoint/Lance_Mans-Day2-final4web.ppt
+Author		Brigadier Lance Mans, Deputy Director, NATO Special Operations Coordination Centre
+
+DRONE STRIKE2
+Description	
+Türkçe: Fýrat Kalkaný Harekatýnda Görevli Deniz Piyadesi
+Date	14 March 2017
+Source	Own work
+Author	45aslan789456
+url:https://commons.wikimedia.org/wiki/File:F%C4%B1rat_Kalkan%C4%B1_Harekat%C4%B1nda_G%C3%B6revli_Deniz_Piyadesi.jpg
+
+PYTHON
+Description	
+English: Python logo
+Deutsch: Python Logo
+Date	6 August 2008
+Source	www.python.org
+Author	www.python.org
+
+HTML
+Description	
+English: From Devicon: HTML5 logo, monochrome with wordmark
+Date	21 July 2014
+Source	https://github.com/konpa/devicon
+Author	Julien Monty ( https://github.com/konpa ), author of Devicon repository, created this SVG file
+
+CSS
+Description	
+English: CSS3 badge
+???: CSS3 ??
+Date	30 May 2016
+Source	https://commons.wikimedia.org/wiki/File:CSS3_and_HTML5_badges.svg
+Author	Rudloff
+
+JAVASCRIPT
+Description	
+English: SVG version of the unofficial Javascript icon File:Javascript-shield.png.
+Date	12 September 2018
+Source	File:Javascript-shield.png
+Author	Omed Habib
+
+C LOGO
+Description	
+English: The logo of The C Programming Language, used in the cover of the book, The C Programming Language, by Brian W. Kernighan and Dennis M. Ritchie, published in 1978.
+Date	5 November 2013, 00:41
+Source	Derived from https://icons8.com/icon/40670/c-programming
+Author	Rezonansowy
+
+C++ LOGO
+Description	
+English: The officially endorsed logo of isocpp.org.
+Date	30 January 2017
+Source	https://github.com/isocpp/logos??
+Author	Jeremy Kratz
+
+JAVA LOGO
+Description	This is the logo of the Java programming language.
+Author or
+copyright owner	
+Source (WP:NFCC#4)	http://www.logoeps.com/java-eps-vector-logo/40925/
+Use in article (WP:NFCC#7)	Java (programming language)
+Purpose of use in article (WP:NFCC#8)	to serve as the primary means of visual identification at the top of the article dedicated to the entity in question.
+
+.NET LOGO
+Description	
+Latest Microsoft .net logo
+Source	
+http://blogs.msdn.com/blogfiles/jimoneil/WindowsLiveWriter/StayingInformed_AFB5/NET_h_rgb_2.png
+Article	
+.net_framework
+Portion used	
+The entire work illustrated is covered by this rationale
+
+ITU Logo
+http://www.itu.edu.tr/itu-hakkinda/genel/kurumsal-kimlik
+
+Aselsan Logo
+https://www.aselsan.com.tr/tr/basin-odasi/aselsan-logosu
+
