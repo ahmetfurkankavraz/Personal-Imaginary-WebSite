@@ -1,0 +1,139 @@
+.mylogo {
+    width: 15%;
+    height: 200px;
+    margin-top: 55px;
+}
+
+.title {
+    color: white;
+    border-radius: 2px;
+    margin-bottom: 10px;
+    height: 150px;
+    display: flex;
+    flex-direction: row;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.title1 {
+    border: 3px solid white;
+    border-radius: 2px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 100px;
+    padding-right: 100px;
+    font-family: Staatliches;
+    font-size: 70px;
+}
+.title2 {
+    border: 3px solid white;
+    border-radius: 2px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 80px;
+    padding-right: 80px;
+    font-family: Staatliches;
+    font-size: 70px;
+}
+.title3 {
+    border: 3px solid white;
+    border-radius: 2px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-family: Staatliches;
+    font-size: 70px;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.entry{
+    display: flex;
+}
+.entry1 {
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+.article1 {
+    margin-left: 40px;
+    font-size: 27px;
+    font-family: Londrina Solid;
+}
+
+.myphoto {
+    width: 293px;
+    height: 381px; 
+}
+
+.contact {
+    text-align: left;
+    margin: 37px;
+    font-size: 33px;
+    font-family: Lalezar;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.cont1 {
+    font-size: 27px;
+    font-family: Bangers;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+
+}
+
+.form {    
+    margin: 50px auto;
+    padding-left: 70px;
+    display: center;
+}
+.lab1{
+    margin-left: 74px;
+    font-size: 22.5px;
+    font-family: Lalezar;
+}
+
+.lab2{
+    margin-left: 70px;
+    font-size: 22.5px;
+    font-family: Lalezar;
+}
+.lab3{
+    font-size: 22.5px;
+    font-family: Lalezar;
+}
+
+.in1 {
+    width: 400px;
+    height: 30px;
+}
+.in2 {
+    width: 400px;
+    height: 30px;
+}
+
+.in3 {
+    width: 400px;
+    height: 150px;
+}
+.submit {
+    margin: 1px 300px;
+    width: 80px;
+    height: 30px;
+    font-size: 19px;
+    font-family: Lalezar;
+}
+.source {
+    margin-left: 70px;
+    font-size: 22.5px;
+    font-family: Lalezar;
+}
